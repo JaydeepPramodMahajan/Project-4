@@ -5,7 +5,7 @@ on:
     paths:
       - "backend/lambda/process-uploaded-file/**"
     branches:
-      - main
+      - master
 
 env:
   AWS_REGION: us-east-1
